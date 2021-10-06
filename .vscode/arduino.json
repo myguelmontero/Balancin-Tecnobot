@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
-    "port": "COM3",
-    "sketch": "Pruebas mpu6050\\Mpu6050\\Mpu6050.ino"
+    "port": "COM7",
+    "sketch": "Control de Motores\\Control_de_Motores.ino"
 }
